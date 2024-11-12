@@ -1,4 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Katherine Marquina </h1>
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Katherine Marquina</a></h1>
+
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Si+lo+puedes+imaginar,+lo+puedes+programar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB"></h3>
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
@@ -14,6 +17,7 @@ Focused on building impactful digital experiences.
 - ✨ Dance
 - ✨ Watching Series
 - ✨ Reading Light Novels
+
   
 # Languages & Tools 👨‍💻 🛠:
 </br>
