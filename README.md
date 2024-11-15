@@ -130,8 +130,6 @@ Focused on building impactful digital experiences.
       </a>
       <br>Docker
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/linitio/static-content/blob/main/img/logo/git-logo.png?raw=true" width="48" height="48" alt="Git" />
