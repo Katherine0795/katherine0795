@@ -311,7 +311,7 @@ Focused on building impactful digital experiences.
 
 <p align="center">
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/katherine-marquina/) [![@914867621](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@914867621")](tel:914867621) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](mailto:kathy7054gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/katherine-marquina/) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](mailto:kathy7054gmail.com)
 
 <br>
 
