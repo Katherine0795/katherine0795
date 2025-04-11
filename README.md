@@ -50,12 +50,6 @@ Focused on building impactful digital experiences.
       </a>
       <br>Netlify
     </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/openstack-logo.png?raw=true" width="48" height="48" alt="OpenStack" />
-      </a>
-      <br>OpenStack
-    </td>
   </tr>
 </table>
 <p>
