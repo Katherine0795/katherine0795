@@ -19,7 +19,7 @@ Focused on building impactful digital experiences.
 - Reading Light Novels
 
   
-# Languages & Tools 👨‍💻 🛠:
+# 🛠 Languages & Tools :
 </br>
 
 <p align="right">
@@ -303,19 +303,21 @@ Focused on building impactful digital experiences.
 
 ### 💻 Profile Stats
 
-<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Katherine0795's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Katherine0795&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Katherine0795's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine0795&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
 
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+![Katherine0795's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Katherine0795&theme=tokyonight)
 
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/katherine-marquina/) [![@914867621](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@914867621")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](mailto:kathy7054gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/katherine-marquina/) [![@914867621](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@914867621")](tel:914867621) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](mailto:kathy7054gmail.com)
 
 <br>
 
